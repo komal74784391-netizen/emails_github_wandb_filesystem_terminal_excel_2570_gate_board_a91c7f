@@ -3,10 +3,10 @@ candidate_id: cinder-r4
 model_family: cinder
 eval_split: holdout-2026q4
 status: active
-gate_score: 0.541
+gate_score: 0.5
 gate_decision: reject
-reviewed_on: 2026-09-11
-reviewer: t.ibrahim
+reviewed_on: 2026-11-13
+reviewer: d.okonkwo
 ---
 # Cinder R4
 
