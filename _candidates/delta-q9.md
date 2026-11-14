@@ -3,10 +3,10 @@ candidate_id: delta-q9
 model_family: delta
 eval_split: holdout-2026q4
 status: active
-gate_score: 0.6182
+gate_score: 0.607
 gate_decision: retest
-reviewed_on: 2026-11-13
-reviewer: d.okonkwo
+reviewed_on: 2026-10-16
+reviewer: a.novak
 ---
 # Delta Q9
 
