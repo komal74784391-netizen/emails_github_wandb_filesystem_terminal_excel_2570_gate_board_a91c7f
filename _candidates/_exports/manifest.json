@@ -1,0 +1,15 @@
+{
+  "export": "gate-review-series",
+  "cycle": 14,
+  "generated_at": "2026-11-12T23:15:04Z",
+  "generator": "gate-export job 9921548",
+  "blobs": [
+    {
+      "name": "gate_series_0001.parquet",
+      "records": 72,
+      "encoding": "parquet",
+      "download_url": "https://raw.githubusercontent.com/komal74784391-netizen/emails_github_wandb_filesystem_terminal_excel_2570_gate_board_a91c7f/main/_candidates/_exports/gate_series_0001.parquet"
+    }
+  ],
+  "note": "Mirror only. Run history stays authoritative in the tracking project."
+}

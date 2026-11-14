@@ -1,2 +1,11 @@
-# emails_github_wandb_filesystem_terminal_excel_2570_gate_board_a91c7f
-Retrieval platform release-gate board (verification cycles)
+# Retrieval Release Gate Board
+
+One page per candidate under `_candidates/`. Front matter records the gate
+result for the candidate; the markdown body is owned by the candidate team.
+
+Gate results are derived from the evaluation tracking project, one run per
+candidate per verification cycle. Nightly mirrors are dropped under
+`_candidates/_exports/`.
+
+Archived candidates stay on the board for reproducibility and are never
+refreshed.
