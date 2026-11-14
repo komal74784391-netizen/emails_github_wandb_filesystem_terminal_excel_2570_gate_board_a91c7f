@@ -3,10 +3,10 @@ candidate_id: aurora-x2
 model_family: aurora
 eval_split: holdout-2026q4
 status: active
-gate_score: 0.644
-gate_decision: promote
-reviewed_on: 2026-11-13
-reviewer: d.okonkwo
+gate_score: 0.612
+gate_decision: retest
+reviewed_on: 2026-10-30
+reviewer: l.mensah
 ---
 # Aurora X2
 
